@@ -1,0 +1,887 @@
+{
+  "phone": {
+    "font": "Tahoma",
+    "layer": [
+      {
+        "id": "default",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_1",
+                "text": "է",
+                "width": "73",
+                "sk": [
+                  {
+                    "text": "1",
+                    "id": "K_1",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_2",
+                "text": "թ",
+                "width": 90,
+                "sk": [
+                  {
+                    "text": "2",
+                    "id": "K_2",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_3",
+                "text": "փ",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "3",
+                    "id": "K_3",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_4",
+                "text": "ձ",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "4",
+                    "id": "K_4",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_5",
+                "text": "ջ",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "5",
+                    "id": "K_5",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_7",
+                "text": "և",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "6",
+                    "id": "K_6",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_8",
+                "text": "ր",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "7",
+                    "id": "K_7",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_9",
+                "text": "չ",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "8",
+                    "id": "K_8",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_0",
+                "text": "ճ",
+                "width": "95",
+                "sk": [
+                  {
+                    "text": "9",
+                    "id": "K_9",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "ժ",
+                "width": "90",
+                "sk": [
+                  {
+                    "text": "0",
+                    "id": "K_0",
+                    "layer": "rightalt"
+                  }
+                ]
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "շ",
+                "width": "73"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_Q",
+                "text": "ք",
+                "width": "73"
+              },
+              {
+                "id": "K_W",
+                "text": "ո",
+                "width": "90"
+              },
+              {
+                "id": "K_E",
+                "text": "ե",
+                "width": "95"
+              },
+              {
+                "id": "K_R",
+                "text": "ռ",
+                "width": "95"
+              },
+              {
+                "id": "K_T",
+                "text": "տ",
+                "width": "95"
+              },
+              {
+                "id": "K_Y",
+                "text": "ը",
+                "width": "95"
+              },
+              {
+                "id": "K_U",
+                "text": "ւ",
+                "width": "95"
+              },
+              {
+                "id": "K_I",
+                "text": "ի",
+                "width": "95"
+              },
+              {
+                "id": "K_O",
+                "text": "օ",
+                "width": "95"
+              },
+              {
+                "id": "K_P",
+                "text": "պ",
+                "width": "90"
+              },
+              {
+                "id": "K_LBRKT",
+                "text": "խ",
+                "width": "73"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_A",
+                "text": "ա",
+                "pad": "30"
+              },
+              {
+                "id": "K_S",
+                "text": "ս"
+              },
+              {
+                "id": "K_D",
+                "text": "դ"
+              },
+              {
+                "id": "K_F",
+                "text": "ֆ"
+              },
+              {
+                "id": "K_G",
+                "text": "գ"
+              },
+              {
+                "id": "K_H",
+                "text": "հ"
+              },
+              {
+                "id": "K_J",
+                "text": "յ"
+              },
+              {
+                "id": "K_K",
+                "text": "կ"
+              },
+              {
+                "id": "K_L",
+                "text": "լ"
+              },
+              {
+                "id": "K_RBRKT",
+                "text": "ծ",
+                "width": "70"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": "1",
+                "nextlayer": "shift"
+              },
+              {
+                "id": "K_Z",
+                "text": "զ"
+              },
+              {
+                "id": "K_X",
+                "text": "ղ"
+              },
+              {
+                "id": "K_C",
+                "text": "ց"
+              },
+              {
+                "id": "K_V",
+                "text": "վ"
+              },
+              {
+                "id": "K_B",
+                "text": "բ"
+              },
+              {
+                "id": "K_N",
+                "text": "ն"
+              },
+              {
+                "id": "K_M",
+                "text": "մ"
+              },
+              {
+                "id": "K_COLON",
+                "text": ":",
+                "sk": [
+                  {
+                    "text": "՛",
+                    "id": "K_QUOTE",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "՚",
+                    "id": "K_QUOTE",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "‐",
+                    "id": "K_HYPHEN",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "―",
+                    "id": "K_HYPHEN",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": "100",
+                "sp": "1"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "*123*",
+                "width": "150",
+                "sp": "1",
+                "nextlayer": "numeric"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": "120",
+                "sp": "1"
+              },
+              {
+                "id": "K_COMMA",
+                "text": ",",
+                "width": "100",
+                "sk": [
+                  {
+                    "text": "«",
+                    "id": "K_COMMA",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "»",
+                    "id": "K_PERIOD",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": ".",
+                    "id": "K_PERIOD",
+                    "layer": "default"
+                  }
+                ]
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": "400",
+                "sp": "0"
+              },
+              {
+                "id": "K_SLASH",
+                "text": "՞",
+                "width": "100",
+                "sk": [
+                  {
+                    "text": "՝",
+                    "id": "K_BKQUOTE",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "՜",
+                    "id": "K_BKQUOTE",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "՟",
+                    "id": "K_SLASH",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": "150",
+                "sp": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shift",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_1",
+                "text": "Է",
+                "width": "73"
+              },
+              {
+                "id": "K_2",
+                "text": "Թ",
+                "width": "90"
+              },
+              {
+                "id": "K_3",
+                "text": "Փ",
+                "width": "95"
+              },
+              {
+                "id": "K_4",
+                "text": "Ձ",
+                "width": "95"
+              },
+              {
+                "id": "K_5",
+                "text": "Ջ",
+                "width": "95"
+              },
+              {
+                "id": "K_7",
+                "text": "և",
+                "width": "95",
+                "layer": "default"
+              },
+              {
+                "id": "K_8",
+                "text": "Ր",
+                "width": "95"
+              },
+              {
+                "id": "K_9",
+                "text": "Չ",
+                "width": "95"
+              },
+              {
+                "id": "K_0",
+                "text": "Ճ",
+                "width": "95"
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "Ժ",
+                "width": "90"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "Շ",
+                "width": "73"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_Q",
+                "text": "Ք",
+                "width": "73"
+              },
+              {
+                "id": "K_W",
+                "text": "Ո",
+                "width": "90"
+              },
+              {
+                "id": "K_E",
+                "text": "Ե",
+                "width": "95"
+              },
+              {
+                "id": "K_R",
+                "text": "Ռ",
+                "width": "95"
+              },
+              {
+                "id": "K_T",
+                "text": "Տ",
+                "width": "95"
+              },
+              {
+                "id": "K_Y",
+                "text": "Ը",
+                "width": "95"
+              },
+              {
+                "id": "K_U",
+                "text": "Ւ",
+                "width": "95"
+              },
+              {
+                "id": "K_I",
+                "text": "Ի",
+                "width": "95"
+              },
+              {
+                "id": "K_O",
+                "text": "Օ",
+                "width": "95"
+              },
+              {
+                "id": "K_P",
+                "text": "Պ",
+                "width": "90"
+              },
+              {
+                "id": "K_LBRKT",
+                "text": "Խ",
+                "width": "73"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_A",
+                "text": "Ա",
+                "pad": "30"
+              },
+              {
+                "id": "K_S",
+                "text": "Ս"
+              },
+              {
+                "id": "K_D",
+                "text": "Դ"
+              },
+              {
+                "id": "K_F",
+                "text": "Ֆ"
+              },
+              {
+                "id": "K_G",
+                "text": "Գ"
+              },
+              {
+                "id": "K_H",
+                "text": "Հ"
+              },
+              {
+                "id": "K_J",
+                "text": "Յ"
+              },
+              {
+                "id": "K_K",
+                "text": "Կ"
+              },
+              {
+                "id": "K_L",
+                "text": "Լ"
+              },
+              {
+                "id": "K_RBRKT",
+                "text": "Ծ",
+                "width": "70"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": "2",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_Z",
+                "text": "Զ"
+              },
+              {
+                "id": "K_X",
+                "text": "Ղ"
+              },
+              {
+                "id": "K_C",
+                "text": "Ց"
+              },
+              {
+                "id": "K_V",
+                "text": "Վ"
+              },
+              {
+                "id": "K_B",
+                "text": "Բ"
+              },
+              {
+                "id": "K_N",
+                "text": "Ն"
+              },
+              {
+                "id": "K_M",
+                "text": "Մ"
+              },
+              {
+                "id": "K_COLON",
+                "text": "֊"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "sp": "1"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "*123*",
+                "width": "150",
+                "sp": "1",
+                "nextlayer": "numeric"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": "120",
+                "sp": "1"
+              },
+              {
+                "id": "K_COMMA",
+                "text": ",",
+                "layer": "default"
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": "400",
+                "sp": "0"
+              },
+              {
+                "id": "K_SLASH",
+                "text": "՞",
+                "layer": "default"
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": "150",
+                "sp": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "numeric",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_1",
+                "text": "1",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_2",
+                "text": "2",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_3",
+                "text": "3",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_4",
+                "text": "4",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_5",
+                "text": "5",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_6",
+                "text": "6",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_7",
+                "text": "7",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_8",
+                "text": "8",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_9",
+                "text": "9",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_0",
+                "text": "0",
+                "layer": "rightalt"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_4",
+                "text": "$",
+                "pad": "50",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_2",
+                "text": "@",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_3",
+                "text": "#",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_5",
+                "text": "%",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_6",
+                "text": "&",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_HYPHEN",
+                "text": "_",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "=",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "|",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "\\",
+                "layer": "rightalt"
+              },
+              {
+                "id": "T_new_1212",
+                "text": "",
+                "width": "10",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_LBRKT",
+                "text": "[",
+                "pad": "110",
+                "layer": "rightalt",
+                "sk": [
+                  {
+                    "id": "U_00AB",
+                    "text": "«"
+                  },
+                  {
+                    "id": "K_COMMA",
+                    "text": "<",
+                    "layer": "shift"
+                  },
+                  {
+                    "id": "K_LBRKT",
+                    "text": "{",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_9",
+                "text": "(",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_0",
+                "text": ")",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_RBRKT",
+                "text": "]",
+                "layer": "rightalt",
+                "sk": [
+                  {
+                    "id": "U_00BB",
+                    "text": "»"
+                  },
+                  {
+                    "id": "K_PERIOD",
+                    "text": ">",
+                    "layer": "shift"
+                  },
+                  {
+                    "id": "K_RBRKT",
+                    "text": "}",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "+",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_HYPHEN",
+                "text": "-",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_8",
+                "text": "*",
+                "layer": "rightalt-shift"
+              },
+              {
+                "id": "K_SLASH",
+                "text": "/",
+                "layer": "rightalt"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": "100",
+                "sp": "1"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_LOWER",
+                "text": "*abc*",
+                "width": "150",
+                "sp": "1",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": "120",
+                "sp": "1"
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": "610",
+                "sp": "0"
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": "150",
+                "sp": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "displayUnderlying": false
+  }
+}
